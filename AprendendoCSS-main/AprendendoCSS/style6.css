@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("./bg.jpg");
+    background-repeat: no-repeat; /* Para não repetir a imagem e ela ficar em seu tamanho natural */
+    background-position: center;
+    background-size: cover; /* Expandir imagem na tela */
+    height: 100vh;
+
+}
+

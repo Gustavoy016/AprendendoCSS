@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+div{
+    padding: 100px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.um, .dois, .tres {
+    color: #fff;
+
+}
+
+p {
+    margin-top: 30px;
+}
+
+.um {
+    background-image: url(./img/1.jpg);
+}
+
+.dois {
+    background-image: url(./img/2.jpg);
+}
+
+.tres {
+    background-image: url(./img/3.jpg);
+}
+
+.quatro {
+    background-image: url(./img/4.jpg);
+}
+
+.cinco {
+    background-image: url(./img/5.jpg);
+}
+
+.seis {
+    background-image: url(./img6.jpg;);
+}
